@@ -1,0 +1,8 @@
+let message;
+message ='abc';
+let endswithC = (<string>message).endsWith('c');
+
+let drawPoint = (point) => {
+
+//... practice for functions
+}
