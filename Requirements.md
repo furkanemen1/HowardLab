@@ -1,9 +1,5 @@
 **Practicum project customer’s (preliminary) requirements are:**
 
-1- Front End Requirements:
-
-2- Back End Requirements:
-
 
 1. Communication problem - to get international students pay attention, participate.
 2. Forms/Surveys
@@ -15,7 +11,31 @@
 
 **Structure:**
 
+Functional Requirements
+
 1. Interface to add/remove tabs/pages/sections
+
+1 - Sign Up
+ 1.1 Admin should be able to add students to the systems by sending registration link.
+    1.1.1  Registration link should be able to open only one time by student.
+    1.1.2  Registration link should display the boxes for students to fill out and that should ask to student to fill out Name, Last name,  and password.
+    1.1.3  Password should include at least on upper case. one lower case and one number.
+    1.1.4  Student should be able to submit the form when all required boxes are filled.
+   
+    
+ 1.2 Login
+ //.......
+    //......
+    
+    
+ 1.3 Update Profile
+ //......
+    //.....
+  
+
+    
+ 
+ 1.4 
 2. Dialog interface
 3. Internal student group assignment function (students with special needs)
 4. Questionnaire system (what students’ actual needs are: housing, transfer, etc)
