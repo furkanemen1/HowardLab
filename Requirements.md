@@ -1,5 +1,10 @@
 **Practicum project customer’s (preliminary) requirements are:**
 
+1- Front End Requirements:
+
+2- Back End Requirements:
+
+
 1. Communication problem - to get international students pay attention, participate.
 2. Forms/Surveys
 3. Platform - potentially - unique to MU (in future sellable to other schools)
